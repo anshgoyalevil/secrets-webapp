@@ -20,6 +20,6 @@ The app is made with perfect authentication system in mind. It includes Login/Si
 
 Here's some screenshots of the web app.
 
-<img scr="https://github.com/anshgoyalevil/secrets-webapp/blob/master/Screenshots/homepage.PNG"></img>
+![Homepage](https://github.com/anshgoyalevil/secrets-webapp/blob/master/Screenshots/homepage.PNG)
 
 Give it a try, fork it, play it, break it, keep learning..!
