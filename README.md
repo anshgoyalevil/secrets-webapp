@@ -29,4 +29,4 @@ Here's some screenshots of the web app.
 ![Secrets Page](https://github.com/anshgoyalevil/secrets-webapp/blob/master/Screenshots/secrets_page.PNG)
 ![Submit a Secret Page](https://github.com/anshgoyalevil/secrets-webapp/blob/master/Screenshots/submit_a_secret_page.PNG)
 
-Give it a try, fork it, play it, break it, keep learning..!
+Give it a try, fork it, play it, break it, keep learning..
